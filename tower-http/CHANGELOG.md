@@ -21,8 +21,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Fixed
 
-- Accepts range headers with ranges where the end of range goes past the end of the document by bumping 
-http-range-header to `0.4`
+- None.
+
+# 0.4.3 (July 20, 2023)
+
+## Fixed
+
+- **compression:** Fix accidental breaking change in 0.4.2.
 
 # 0.4.2 (July 19, 2023)
 
